@@ -1,0 +1,27 @@
+{
+  "merchant": "TOKO MAJU JAYA",
+  "tanggal": "02/10/2026",
+  "item": [
+    {
+      "nama": "Indomie Goreng",
+      "harga": 3500,
+      "jumlah": 3,
+      "total_harga": 10500
+    },
+    {
+      "nama": "Teh Botol",
+      "harga": 5000,
+      "jumlah": 2,
+      "total_harga": 10000
+    },
+    {
+      "nama": "Roti Tawar",
+      "harga": 15000,
+      "jumlah": 1,
+      "total_harga": 15000
+    }
+  ],
+  "subtotal": 35500,
+  "pajak": 3905,
+  "total": 39405
+}
